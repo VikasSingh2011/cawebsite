@@ -2,9 +2,9 @@
 
 A responsive, five-page static website concept for an Indian chartered accountancy firm. Open `index.html` directly or serve this folder with a static web server.
 
-## Live website
+## GitHub Pages deployment
 
-The site is published with GitHub Pages: **[https://vikassingh2011.github.io/cawebsite/](https://vikassingh2011.github.io/cawebsite/)**. Updates pushed to the `master` branch are deployed automatically.
+The intended live URL is **[https://vikassingh2011.github.io/cawebsite/](https://vikassingh2011.github.io/cawebsite/)**. To publish it the first time, enable GitHub Pages for this repository in **Settings → Pages → Build and deployment → Source → GitHub Actions**, then rerun the failed Pages workflow. After the first successful deployment, updates pushed to `master` will deploy automatically.
 
 ## Supabase contact form
 
